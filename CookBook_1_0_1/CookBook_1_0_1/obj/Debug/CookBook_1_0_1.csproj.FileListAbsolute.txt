@@ -1,0 +1,9 @@
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\bin\Debug\CookBook_1_0_1.exe.config
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\bin\Debug\CookBook_1_0_1.exe
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\bin\Debug\CookBook_1_0_1.pdb
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.csprojResolveAssemblyReference.cache
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.Properties.Resources.resources
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.csproj.GenerateResource.Cache
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.exe
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.pdb
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.AuthorizeForm.resources
