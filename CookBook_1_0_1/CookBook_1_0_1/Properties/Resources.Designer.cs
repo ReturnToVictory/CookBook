@@ -63,6 +63,16 @@ namespace CookBook_1_0_1.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap background11 {
+            get {
+                object obj = ResourceManager.GetObject("background11", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap crossclose {
             get {
                 object obj = ResourceManager.GetObject("crossclose", resourceCulture);

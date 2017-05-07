@@ -10,27 +10,26 @@ using System.Windows.Forms;
 
 namespace CookBook_1_0_1
 {
-    public partial class AuthorizeForm : Form
+    public partial class Registration : Form
     {
-        public AuthorizeForm()
+        public Registration()
         {
             InitializeComponent();
         }
 
-        private void btnExit_Click(object sender, EventArgs e)
+        private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
-            this.Close();
+
         }
 
-        private void btnSvernut_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
-            this.WindowState = FormWindowState.Minimized;
+
         }
 
         private void btnRegistration_Click(object sender, EventArgs e)
         {
-            Registration reg = new Registration();
-            reg.ShowDialog();
+
         }
     }
 }

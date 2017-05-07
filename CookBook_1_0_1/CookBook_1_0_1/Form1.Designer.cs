@@ -38,6 +38,7 @@
             // 
             // btnExit
             // 
+            this.btnExit.BackColor = System.Drawing.Color.Transparent;
             this.btnExit.BackgroundImage = global::CookBook_1_0_1.Properties.Resources.crossclose;
             this.btnExit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnExit.Cursor = System.Windows.Forms.Cursors.Hand;
@@ -48,7 +49,8 @@
             this.btnExit.Name = "btnExit";
             this.btnExit.Size = new System.Drawing.Size(49, 43);
             this.btnExit.TabIndex = 0;
-            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.UseVisualStyleBackColor = false;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnSvernut
             // 
@@ -63,10 +65,11 @@
             this.btnSvernut.TabIndex = 1;
             this.btnSvernut.Text = "_";
             this.btnSvernut.UseVisualStyleBackColor = false;
+            this.btnSvernut.Click += new System.EventHandler(this.btnSvernut_Click);
             // 
             // btnRegistration
             // 
-            this.btnRegistration.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.btnRegistration.BackColor = System.Drawing.Color.Transparent;
             this.btnRegistration.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRegistration.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnRegistration.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
@@ -77,11 +80,12 @@
             this.btnRegistration.TabIndex = 2;
             this.btnRegistration.Text = "Регистрация";
             this.btnRegistration.UseVisualStyleBackColor = false;
+            this.btnRegistration.Click += new System.EventHandler(this.btnRegistration_Click);
             // 
             // btnLogin
             // 
             this.btnLogin.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnLogin.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
+            this.btnLogin.BackColor = System.Drawing.Color.Transparent;
             this.btnLogin.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnLogin.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnLogin.FlatAppearance.BorderSize = 0;

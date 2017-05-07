@@ -7,3 +7,4 @@ D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.csproj
 D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.exe
 D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.pdb
 D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.AuthorizeForm.resources
+D:\univer\projects\CookBook_1_0_1\CookBook_1_0_1\obj\Debug\CookBook_1_0_1.Registration.resources
